@@ -53,6 +53,18 @@ const PROJECTS = [
   },
   {
     id: 5,
+    title: 'EMBER-EARTH Restaurant Website',
+    subtitle: 'Full-Stack / UI Design',
+    description:
+      'Set above the serene volcanic lakes of Bishoftu, Ember & Earth pairs the bounty of Ethiopian highlands with refined classical culinary technique, genuine warmth, and unforgettable tables',
+    year: '2026',
+    image: `${import.meta.env.BASE_URL}img/ember.png`,
+    url: 'https://ember-earth-resturant-ioe9bbzig-yoni-942f.vercel.app/',
+    tags: ['Next.js', 'D3.js', 'Supabase', 'WebSockets'],
+    color: 'from-orange-500 to-red-500',
+  },
+  {
+    id: 6,
     title: 'YMA Law Office',
     subtitle: 'Corporate / Legal',
     description:
