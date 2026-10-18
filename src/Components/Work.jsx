@@ -71,7 +71,7 @@ const PROJECTS = [
       'YMA Law Office (Yigermal Melkam & Advocates) is a premium Ethiopian law office delivering full-service legal counsel across corporate, commercial, and sports law. Founded by Lawyer Yigermal Melkam, a seasoned advocate with direct experience at the Court of Arbitration for Sport (CAS).',
     year: '2026',
     image: `${import.meta.env.BASE_URL}img/law.png`,
-    url: 'https://yma-law-office.onrender.com/',
+    url: 'https://ymalegal.com/',
     tags: ['React', 'Node.js', 'Express', 'MongoDB'],
     color: 'from-blue-600 to-cyan-500',
   },
