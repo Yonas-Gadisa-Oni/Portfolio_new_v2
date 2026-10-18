@@ -60,7 +60,7 @@ function Footer() {
                 </a>
               ))}
             </div>
-            <p className="mt-6 text-sm">yonasgadisa2@gmail.com</p>
+            <p className="mt-6 text-sm">yonasgadisa400@gmail.com</p>
           </div>
         </div>
 

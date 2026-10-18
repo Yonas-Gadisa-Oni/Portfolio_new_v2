@@ -13,7 +13,7 @@ const TwitterIcon = (props) => (
 );
 
 const CONTACT_INFO = [
-  { icon: Mail, label: 'Email', value: 'yonasgadisa2@gmail.com', href: 'mailto:yonasgadisa2@gmail.com' },
+  { icon: Mail, label: 'Email', value: 'yonasgadisa400@gmail.com', href: 'mailto:yonasgadisa2@gmail.com' },
   { icon: MapPin, label: 'Location', value: 'Ethiopia · Remote Worldwide' },
   { icon: Clock, label: 'Response Time', value: 'Usually within 24 hours' },
 ];
